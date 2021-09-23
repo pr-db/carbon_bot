@@ -3,10 +3,10 @@ A basic robot model package for ros2 to test nav2 packages
 
 # Prerequisites
 ### ROS2 (foxy)
-sudo apt install ros-foxy-joint-state-publisher-gui
-sudo apt install ros-foxy-xacro
-sudo apt install ros-foxy-tf2-tools
-sudo apt install ros-foxy-rqt-robot-steering
+</br> sudo apt install ros-foxy-joint-state-publisher-gui
+</br> sudo apt install ros-foxy-xacro
+</br> sudo apt install ros-foxy-tf2-tools
+</br> sudo apt install ros-foxy-rqt-robot-steering
 
 ### Gzebo
 sudo apt install ros-foxy-gazebo-ros-pkgs
